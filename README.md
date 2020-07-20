@@ -1,2 +1,2 @@
-# statebased_vs_oop_pyplot
-This Jupyter Notebook provides the code used to generate the figures in the Medium post "plt.subplot() or plt.subplots()? Understanding state-based vs. object-oriented programming in Pyplot" published in Towards Data Science.
+# "State-based" vs. "Object-oriented" programming demonstrated within Matploblib's Pyplot Module
+This Jupyter Notebook provides the code used to generate the figures in the Medium post ["plt.subplot() or plt.subplots()? Understanding state-based vs. object-oriented programming in Pyplot"](https://towardsdatascience.com/plt-subplot-or-plt-subplots-understanding-state-based-vs-object-oriented-programming-in-pyplot-4ba0c7283f5d) published in _Towards Data Science_.
